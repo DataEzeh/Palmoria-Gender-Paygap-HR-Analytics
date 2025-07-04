@@ -4,7 +4,7 @@ This project is a full HR analytics case study done for **Palmoria Group**, a Ni
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 - **Company:** Palmoria Group (Manufacturing, Nigeria)
 - **Challenge:** Public gender inequality criticism (“Manufacturing Patriarchy”)
@@ -14,4 +14,4 @@ This project is a full HR analytics case study done for **Palmoria Group**, a Ni
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
