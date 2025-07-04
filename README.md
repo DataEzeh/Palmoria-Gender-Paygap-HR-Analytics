@@ -49,6 +49,13 @@ All important KPIs and measures are listed in:
 | Dashboard Overview                  | ![](Screenshots/Dashboard_Overview.jpg) |
 
 ---
+## License
+
+All materials in this repository are intended for educational and portfolio use only.  
+Please do not copy, distribute, or modify without permission.  
+
+---
+
 
 ## Conclusion
 
