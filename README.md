@@ -25,25 +25,28 @@ All important KPIs and measures are listed in:
 
 ---
 
-## Dashboard Visuals
+## Dashboard Screenshots
 
-| Visual | Preview |
-|--------|---------|
-| Gender Distribution | ![](Screenshots/1_Gender_Distribution.png) |
-| Gender by Region | ![](Screenshots/2_gender_by_region.png) |
-| Gender by Department | ![](Screenshots/3_gender_by_department.png) |
-| % Female KPI | ![](Screenshots/4_percent_female_card.png) |
-| Total Employees KPI | ![](Screenshots/5_total_employees_card.png) |
-| Gender Map | ![](Screenshots/6_gender_map.png) |
-| Rating by Gender | ![](Screenshots/7_gender_vs_rating.png) |
-| Gender Pay Gap | ![](Screenshots/8_gender_pay_gap_card.png) |
-| Salary Matrix | ![](Screenshots/9_department_gender_paygap_matrix.png) |
-| Avg Salary | ![](Screenshots/10_avg_salary_card.png) |
-| Employees Below $90k | ![](Screenshots/11_below_90k_card.png) |
-| Salary Bands | ![](Screenshots/12_salary_band_distribution.png) |
-| Salary by Region | ![](Screenshots/13_salary_band_by_region.png) |
-| Total Bonus | ![](Screenshots/14_total_bonus_paid_card.png) |
-| Total Compensation | ![](Screenshots/15_total_compensation_card.png) |
+| Visual Title                         | Preview |
+|-------------------------------------|---------|
+| Gender Overview                     | ![](Screenshots/Gender%20Overview.jpg) |
+| Gender by Region                    | ![](Screenshots/Gender%20by%20Region.jpg) |
+| Gender by Department                | ![](Screenshots/Gender%20by%20Department.jpg) |
+| Gender by Performance Rating        | ![](Screenshots/Gender%20by%20Performance%20Rating.jpg) |
+| Gender by Rating                    | ![](Screenshots/Gender%20by%20Rating.jpg) |
+| Gender Map                          | ![](Screenshots/Gender%20Map.jpg) |
+| % Female Card                       | ![](Screenshots/%25%20Female%20Card.jpg) |
+| Total Employees                     | ![](Screenshots/Total%20Employees.jpg) |
+| Average Salary Card                 | ![](Screenshots/Average%20Salary%20Card.jpg) |
+| Avg Salary by Gender                | ![](Screenshots/Avg%20Salary%20by%20Gender.jpg) |
+| Gender Pay Gap Card                 | ![](Screenshots/Gender%20Pay%20Gap%20Card.jpg) |
+| Below Minimum Wage Card             | ![](Screenshots/Below%20Min%20Wage%20Card.jpg) |
+| Total Bonus Card                    | ![](Screenshots/Total%20Bonus%20Card.jpg) |
+| Total Bonus Amount by Region        | ![](Screenshots/Total%20Bonus%20Amount%20by%20Region.jpg) |
+| Total Compensation Card             | ![](Screenshots/Total%20Compensation%20card.jpg) |
+| Total Compensation by Region        | ![](Screenshots/Total%20Compensation%20by%20Region.jpg) |
+| Total Employees by Salary Band      | ![](Screenshots/Total%20Employee%20by%20Salary%20Band.jpg) |
+| Dashboard Overview                  | ![](Screenshots/Dashboard_Overview.jpg) |
 
 ---
 
